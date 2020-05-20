@@ -17,5 +17,6 @@
           verify if the console prints your expected answer  
           
         5.Use an IDE like Eclipse or IntelliJ IDEA to run PBT tests 
-          go to src/test/java/com/jojo//Day*/PBT_Day*.java and run each test using the button on left side bar aligning with class declaration
+          go to src/test/java/com/jojo//Day*/PBT_Day*.java and run each test using the button on left side bar aligning with class
+          declaration
         
